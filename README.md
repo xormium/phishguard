@@ -71,6 +71,9 @@ The dashboard auto-refreshes every 5 seconds showing:
 - Campaign funnel chart
 
 ---
+![Demo](images1.png)
+![Demo](images2.png)
+![Demo](images3.png)
 
 ## URL Analyzer
 
